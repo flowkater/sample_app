@@ -11,6 +11,7 @@ gem 'will_paginate', '3.0.2'
 group :development do
   gem 'sqlite3', '1.3.5'
   gem 'annotate', '~>2.4.1.beta'
+  gem 'postgres-pr'
 end
 
 # Gems used only for assets and not required
